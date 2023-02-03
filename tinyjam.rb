@@ -12,7 +12,6 @@ class Tinyjam < Formula
 
   def install
     bin.install "tinyjam"
-    prefix.install "LICENSE"
   end
 
   test do
