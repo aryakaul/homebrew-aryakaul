@@ -1,9 +1,9 @@
 class Tinyjam < Formula
   desc "Jam 2 NPR Tiny Desks"
   homepage "https://github.com/aryakaul/tinyjam"
-  url "https://github.com/aryakaul/tinyjam/archive/refs/tags/0.1.0.tar.gz"
-  version "0.1.0"
-  sha256 "d7bb417d33829f9763555ecc01b309ff836ce6929f74d66d71d1721fb2e48a70"
+  url "https://github.com/aryakaul/tinyjam/archive/refs/tags/0.1.1.tar.gz"
+  version "0.1.1"
+  sha256 "61747a330d9404d2339816792c37d5aa287f12b78ac68f57f1d4df3bcfe94dd4"
   license "MIT"
   head "https://github.com/aryakaul/tinyjam.git", branch: "main"
 
